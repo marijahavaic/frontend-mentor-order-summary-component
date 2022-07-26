@@ -30,7 +30,7 @@ Users should be able to:
 ##### Desktop Version
 ![Desktop Version](./images/screenshot.jpg)
 ##### Mobile Version
-![Mobile Version](./images/mobile_screenshot.png)
+![Mobile Version](./images/mobile_screenshot.jpg)
 
 ### Links
 
