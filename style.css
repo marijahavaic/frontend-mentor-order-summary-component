@@ -44,9 +44,12 @@ span {
 .summary_container {
     background-color: #fff;
     width: 350px;
-    /* height: 500px; */
     border-radius: 15px;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .summary_container img {
@@ -94,6 +97,27 @@ span {
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
+}
+
+.btn {
+    width: 80%;
+    outline: none;
+    border: none;
+}
+
+.payment {
+    background-color: var(--primary-bright-blue);
+    color: #fff;
+    padding: 10px;
+    margin: 20px 0;
+    border-radius: 10px;
+    font-weight: 700;
+}
+
+.cancel {
+    margin-bottom: 20px;
+    font-weight: 900;
+    background: transparent;
 }
 
 .attribution {
