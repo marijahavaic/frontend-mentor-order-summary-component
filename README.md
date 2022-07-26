@@ -26,10 +26,11 @@ Users should be able to:
 
 - See hover states for interactive elements
 
-### Screenshot
-
+### Screenshots
+##### Desktop Version
 ![Desktop Version](./images/screenshot.jpg)
-![Mobile Version](./images/mobile_screenshot.jpg)
+##### Mobile Version
+![Mobile Version](./images/mobile_screenshot.png)
 
 ### Links
 
