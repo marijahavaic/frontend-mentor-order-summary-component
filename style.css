@@ -1,5 +1,6 @@
 * {
     font-family: "Red Hat Display", serif;
+    box-sizing: border-box;
 }
 
 :root {
@@ -8,4 +9,29 @@
     --very-pale-blue: hsl(225, 100%, 98%);
     --desaturated-blue: hsl(224, 23%, 55%);
     --dark-blue: hsl(223, 47%, 23%);
+}
+
+body {
+    height: 100vh;
+    background-image: url(./images/pattern-background-desktop.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: var(--primary-pale-blue);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.summary_container {
+    background-color: #fff;
+    width: 350px;
+    height: 500px;
+    border-radius: 5%;
+}
+
+.attribution {
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
 }
