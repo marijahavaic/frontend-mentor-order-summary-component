@@ -28,7 +28,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/screenshot.jpg)
+![Desktop Version](./images/screenshot.jpg)
+![Mobile Version](./images/mobile_screenshot.jpg)
 
 ### Links
 
@@ -66,7 +67,7 @@ I learned how to pay attention on how the website was designed. First, I destruc
 
 ## Author
 
-- Website - [Add your name here](https://www.marijahavaic.com)
+- Website - [Marija Havaic](https://www.marijahavaic.com)
 <!-- - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@yourusername](https://www.twitter.com/yourusername) -->
 
