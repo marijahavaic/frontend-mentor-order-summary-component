@@ -37,6 +37,10 @@ button {
     cursor: pointer;
 }
 
+button:hover {
+    transform: scale(1.1);
+}
+
 span {
     font-weight: 900;
 }
@@ -84,13 +88,14 @@ span {
     height: 50px;
 }
 
-.price_section button {
+.change_btn {
     background-color: transparent;
     outline: none;
     border: transparent;
     color: var(--primary-bright-blue);
     font-weight: 700;
     text-decoration: underline;
+    transition: transform 0.2s ease-in;
 }
 
 .anual_plan {
@@ -108,13 +113,14 @@ span {
 }
 
 .payment {
-    background-color: var(--primary-bright-blue);
+    background: var(--primary-bright-blue);
     box-shadow: rgba(0, 0, 0, 0.55) 0px 25px 50px -12px;
     color: #fff;
     padding: 15px;
     margin: 20px 0;
     border-radius: 10px;
     font-weight: 700;
+    transition: transform 0.2s ease-in;
 }
 
 .cancel {
