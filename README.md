@@ -32,8 +32,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/marijahavaic/frontend-mentor-order-summary-component)
+- Solution URL: [Github](https://www.frontendmentor.io/solutions/order-summary-card-solution-kXdFttYanW)
 - Live Site URL: [Github Pages](https://marijahavaic.github.io/frontend-mentor-order-summary-component/)
+- Source Code URL: [Github](https://github.com/marijahavaic/frontend-mentor-order-summary-component)
 
 ## My process
 
