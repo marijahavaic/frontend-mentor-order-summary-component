@@ -61,4 +61,4 @@ I learned how to pay attention on how the website was designed. First, I destruc
 ## Author
 
 - Website - [Marija Havaic](https://www.marijahavaic.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@marijahavaic](https://www.frontendmentor.io/profile/marijahavaic)
